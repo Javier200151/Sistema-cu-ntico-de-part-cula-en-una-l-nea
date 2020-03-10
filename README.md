@@ -5,7 +5,7 @@ Simulacion de el primer sistema cuántico descrito en la sección 4.1 en python 
 - El sistema si se le da otro vector Ket debe busca la probabilidad de transitar del primer vector al segundo.
 
 ## Getting Started
-Para descargar este archivo puede seleccionar todo el texto y copiarlo en un archivo .py para empezar a probar la libreria. Se deben poner la libreria en la misma direccion de archivo que las pruebas para que funcionen. 
+Para descargar este archivo puede seleccionar todo el texto y copiarlo en un archivo .py para empezar a probar la libreria. Se deben poner la libreria en la misma direccion de archivo que el resto de los scripts para que funcionen las pruebas. 
 
 ## Prerequisites
 Se uso el lenguaje python, se escribio en el editor de IDLE, cualquier editor de python (.py) sera suficiente para correr la libreria
