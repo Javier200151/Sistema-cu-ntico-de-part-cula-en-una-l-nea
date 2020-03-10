@@ -1,1 +1,1 @@
-# Sistema-cuantico-de-particula-en-una-linea
+# Sistema cuantico de particula en una linea
